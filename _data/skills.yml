@@ -1,19 +1,6 @@
-- name: Software Engineer Keywords
+- name: Nanjing discovery Keywords
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - History
+      - Modern
+      - Celebrities
 
-- name: Mobile Developer Keywords
-  keywords:
-      - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg

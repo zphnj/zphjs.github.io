@@ -1,31 +1,23 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: Nanjign scenes 
+keywords: Nanjing, zph
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
 
-仰慕「优雅编码的艺术」。
+Welcome to "Discover Nanjing"! Delve into the city's rich history and stunning landscapes with us. From ancient dynasties to modern marvels, explore Nanjing's beauty and charm. Whether you're planning a visit or simply curious, let's uncover the secrets of this captivating city together!
 
-坚信熟能生巧，努力改变人生。
 
-## 联系
+## Contact
 
 <ul>
 {% for website in site.data.social %}
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
-{% if site.url contains 'mazhuang.org' %}
-<li>
-微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
-</li>
-{% endif %}
 </ul>
 
 
